@@ -2,6 +2,20 @@
   height: 400px;
   overflow-y: hidden;
 }
+
+.page-header {
+	height: 500px;
+	background-image: url(img/ocean.jpg);
+	background-size: cover;
+	background-position: center center;
+}
+
+.text {
+    text-align: center;
+	padding-top: 10%;
+	color: #fff;
+}
+
 .img-responsive {
   margin-bottom: 5px;
 }
