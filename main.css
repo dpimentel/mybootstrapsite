@@ -1,0 +1,23 @@
+.thumbnail {
+  height: 400px;
+  overflow-y: hidden;
+}
+.img-responsive {
+  margin-bottom: 5px;
+}
+
+.fa {
+	font-size: 25px;
+}
+
+.embed-responsive {
+	margin-bottom: 25px;
+}
+
+.text-muted {
+	color: #fff;
+}
+
+.footer {
+	background-color: lightslategrey
+}
